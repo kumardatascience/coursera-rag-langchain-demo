@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+chromadb
+sentence-transformers
+transformers
+huggingface-hub
+langchain-google-genai
+python-dotenv
+wget
